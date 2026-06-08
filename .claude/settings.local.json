@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where mysql *)",
+      "Bash(mysql *)"
+    ]
+  }
+}

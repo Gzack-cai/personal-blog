@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "profile": "Profile",
+    "projects": "Projects",
+    "articles": "Articles",
+    "life": "Life",
+    "friends": "Friends",
+    "contact": "Contact"
+  },
+  "profile": {
+    "title": "Profile",
+    "subtitle": "Full-Stack Developer | Tech Enthusiast",
+    "skills": "Skills",
+    "contact": "Contact",
+    "email": "Email",
+    "github": "GitHub"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "My Portfolio",
+    "demo": "Live Demo",
+    "source": "Source Code",
+    "techStack": "Tech Stack"
+  },
+  "articles": {
+    "title": "Articles",
+    "subtitle": "My Tech Blog Posts",
+    "readMore": "Read More →",
+    "noArticles": "No articles yet"
+  },
+  "life": {
+    "title": "Life",
+    "subtitle": "Moments that matter"
+  },
+  "friends": {
+    "title": "Friends",
+    "subtitle": "Blogroll",
+    "visit": "Visit Blog →"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Have questions or want to collaborate? Get in touch!",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "submit": "Send Message",
+    "success": "Message sent successfully!"
+  },
+  "music": {
+    "play": "Play",
+    "pause": "Pause"
+  }
+}

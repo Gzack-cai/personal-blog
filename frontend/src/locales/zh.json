@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "profile": "个人介绍",
+    "projects": "项目展示",
+    "articles": "文章",
+    "life": "精彩生活",
+    "friends": "我的好友",
+    "contact": "联系我"
+  },
+  "profile": {
+    "title": "个人介绍",
+    "subtitle": "全栈开发者 | 技术爱好者",
+    "skills": "技能标签",
+    "contact": "联系方式",
+    "email": "邮箱",
+    "github": "GitHub"
+  },
+  "projects": {
+    "title": "项目展示",
+    "subtitle": "我的作品集",
+    "demo": "在线演示",
+    "source": "源码",
+    "techStack": "技术栈"
+  },
+  "articles": {
+    "title": "文章",
+    "subtitle": "我的技术博客",
+    "readMore": "阅读全文 →",
+    "noArticles": "暂无文章"
+  },
+  "life": {
+    "title": "精彩生活",
+    "subtitle": "记录生活中的美好瞬间"
+  },
+  "friends": {
+    "title": "我的好友",
+    "subtitle": "友情链接",
+    "visit": "访问博客 →"
+  },
+  "contact": {
+    "title": "联系我",
+    "subtitle": "有任何问题或合作意向，欢迎联系",
+    "name": "你的名字",
+    "email": "你的邮箱",
+    "message": "你的消息",
+    "submit": "发送消息",
+    "success": "消息已发送成功！"
+  },
+  "music": {
+    "play": "播放",
+    "pause": "暂停"
+  }
+}
